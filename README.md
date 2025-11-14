@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Sobre mí
 Soy Álvaro Santos, un estudiante de DAM con un nivel de inglés alto, buen manejo de hardware y software, y experiencia trabajando de cara al público.  
-Tengo interés por *todo* lo tecnologicoa: desarrollo, sistemas, ciber, automatización… lo que me echen.
+Tengo interés por *todo* lo tecnologico: desarrollo, sistemas, ciber, automatización… lo que me echen.
 
 - 🎓 Actualmente estudiando **DAM (Desarrollo de Aplicaciones Multiplataforma)**
 - 🖥️ Graduado en **SMR (Sistemas Microinformáticos y Redes)**
@@ -27,7 +27,7 @@ Tengo interés por *todo* lo tecnologicoa: desarrollo, sistemas, ciber, automati
 ## 📚 Actualmente aprendiendo
 - Java & GitHub
 - Bases de datos (MySQL / SQL en general)
-- HTML,CSS y Bootstrap
+- HTML, CSS y Bootstrap
 - Conceptos avanzados de hardware y sistemas
 
 ---
