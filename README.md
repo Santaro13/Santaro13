@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Alvaro+Santos+👋;Full+Stack+Student;Tech+Enthusiast;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Alvaro+Santos+👋;Tech+Enthusiast;Always+Learning+🚀" />
 </h1>
 
 <p align="center">Bienvenid@</p>
@@ -8,37 +8,35 @@
 
 ## 🧑‍💻 Sobre mí
 Soy Álvaro Santos, un estudiante de DAM con un nivel de inglés alto, buen manejo de hardware y software, y experiencia trabajando de cara al público.  
-Tengo interés por *todo* lo que huela a tecnología: desarrollo, sistemas, ciber, automatización… lo que me echen.
+Tengo interés por *todo* lo tecnologicoa: desarrollo, sistemas, ciber, automatización… lo que me echen.
 
 - 🎓 Actualmente estudiando **DAM (Desarrollo de Aplicaciones Multiplataforma)**
 - 🖥️ Graduado en **SMR (Sistemas Microinformáticos y Redes)**
 - 🔧 Experiencia en **montaje, mantenimiento y reparación** de equipos
-- 👥 Background trabajando **cara al público** → comunicación 🔝
-- 🚀 Curioso por naturaleza → siempre aprendiendo algo nuevo
+- 👥 Background trabajando **cara al público** 
 
 ---
 
 ## ⚡ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,mysql,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,mysql,vscode,linux" />
 </div>
 
 ---
 
 ## 📚 Actualmente aprendiendo
-- Java & POO
+- Java & GitHub
 - Bases de datos (MySQL / SQL en general)
-- JavaScript para front y scripts
+- HTML,CSS y Bootstrap
 - Conceptos avanzados de hardware y sistemas
 
 ---
 
 ## 🔥 Lo que puedo aportar
-- 🧩 Resolución de problemas → *modo detective activado*
+- 🧩 Resolución de problemas
 - 💬 Comunicación clara gracias a la experiencia cara al público
-- 🛠️ Conocimientos sólidos de hardware y mantenimiento
-- 💡 Creatividad y ganas de construir cosas
-- 🧠 Aprendizaje rápido (literal soy una esponja tech)
+- 🛠️ Conocimientos de mantenimiento y reparacion en hardware y software
+- 🧠 Aprendizaje rápido
 
 ---
 
@@ -54,7 +52,8 @@ Tengo interés por *todo* lo que huela a tecnología: desarrollo, sistemas, cibe
 ---
 
 ## 🌐 Contacto
-**GitHub:** [Santaro13](https://github.com/Santaro13)
+📫[![Email](https://img.shields.io/badge/Email-ezrealsantos%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezrealsantos@gmail.com) 
+
 
 ---
 
