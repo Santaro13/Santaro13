@@ -52,7 +52,7 @@ Tengo interés por *todo* lo tecnologico: desarrollo, sistemas, ciber, automatiz
 ---
 
 ## 🌐 Contacto
-📫[![Email](https://img.shields.io/badge/Email-ezrealsantos%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezrealsantos@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-ezrealsantos%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezrealsantos@gmail.com) 
 
 
 ---
