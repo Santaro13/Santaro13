@@ -38,15 +38,6 @@ Tengo interés por *todo* lo tecnologico: inteligencia artificial, desarrollo, s
 - 🛠️ Conocimientos de mantenimiento y reparacion en hardware y software
 - 🧠 Aprendizaje rápido
 
----
-
-## 📊 Mis stats (para el toque profesional)
-<div align="center">
-
-[![Santaro13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santaro13&show_icons=true&theme=tokyonight)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santaro13&layout=compact&theme=tokyonight)
-
 </div>
 
 ---
